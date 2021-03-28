@@ -1,0 +1,11 @@
+.iframe {
+  margin-left: 15px;
+  margin-right: auto;
+}
+@media only screen and (max-width: 768px) {
+  .iframe {
+    transform: scale(0.8);
+    width: 100%;
+    margin: 0;
+  }
+}

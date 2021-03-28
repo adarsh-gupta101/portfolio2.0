@@ -1,0 +1,75 @@
+.skills {
+  background-color: rgb(0, 0, 0);
+  margin-left: 15%;
+  margin-top: 15%;
+}
+.skills > p {
+  color: white;
+}
+.containers {
+  width: 75%;
+  background-color: white;
+  height: 25px;
+  position: relative;
+  border-radius: 50px;
+  margin-bottom: 25px;
+}
+.skill {
+  height: inherit;
+  background-color: rgb(248, 2, 2);
+  position: absolute;
+  border-radius: 25px;
+}
+.Html {
+  width: 75%;
+  background-color: chartreuse;
+  animation: anima;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+.css {
+  width: 65%;
+  animation: anima;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+.React {
+  width: 85%;
+  background-color: chartreuse;
+  animation: anima;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+.Node {
+  width: 65%;
+  animation: anima;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+.Express {
+  width: 76%;
+  animation: anima;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+.MongoDB {
+  width: 79%;
+  animation: anima;
+  animation-duration: 5s;
+  background-color: chartreuse;
+  animation-iteration-count: infinite;
+}
+
+.Javascript {
+  width: 55%;
+  animation: anima;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+@keyframes anima {
+  0% {
+    width: 0%;
+  }
+  100% {
+  }
+}
