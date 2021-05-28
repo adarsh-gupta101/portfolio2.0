@@ -49,7 +49,7 @@ const About = () => {
         </h3>
         <p className="P_text">
           I want to define myself by the work I love to do.Skill's can be
-          developed, Character can be build & not everything is easy . I love to
+          developed, Character can be built & not everything is easy . I love to
           learn new stuffs and also loves to teach
         </p>
 
